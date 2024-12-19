@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "title": "JavaScript Mastery",
+      "description": "Level up your coding skills with our comprehensive JavaScript course!",
+      "features": [
+        "40+ Hours of Video",
+        "Certificate of Completion",
+        "Access to Premium Content"
+      ],
+      "price": "$49.99"
+    },
+    {
+      "id": 2,
+      "title": "React Basics",
+      "description": "Learn the fundamentals of React and build dynamic web applications.",
+      "features": [
+        "30+ Hours of Video",
+        "Lifetime Access",
+        "Interactive Projects"
+      ],
+      "price": "$39.99"
+    }
+  ]
+  
